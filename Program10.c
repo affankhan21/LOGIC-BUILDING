@@ -48,7 +48,7 @@
 //  Description :       To check whether input is divisible by 5 or not
 //  Input :             Integer
 //  Output :            Integer
-//  Author :            Piyush Manohar Khairnar (MI10011)
+//  Author :            AFFAN KHAn
 //  Date :              12/10/2022
 //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
